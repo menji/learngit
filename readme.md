@@ -9,6 +9,7 @@ git tracks changes of files.
 
 # block1
 - changes master
+- change 4
 
 # block2
 feature changes
